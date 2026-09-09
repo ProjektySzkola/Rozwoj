@@ -275,19 +275,6 @@ Każda dyscyplina może niezależnie konfigurować:
 
 ---
 
-## 🚀 Szybki start
-
-### Tryb demo — bez serwera
-
-Aplikacja działa **od razu** po pobraniu — otwórz `index.html` w przeglądarce. Dane przykładowe (6 drużyn, 3 dyscypliny, przykładowe mecze i zawodnicy) ładowane automatycznie.
-
-```bash
-# Widok publiczny
-open index.html
-
-# Panel admina (demo — logowanie nie wymagane)
-open admin_panel/admin.html
-```
 
 ### Tryb live — z bazą danych Supabase
 
