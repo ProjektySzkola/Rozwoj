@@ -1,4 +1,7 @@
 # ⚽🏀🏐 SLS — Szkolna Liga Sportowa
+---
+https://projektyszkola.github.io/SLS/
+---
 
 > Webowa platforma do zarządzania turniejami sportowymi w szkołach. Trzy dyscypliny, dwa tryby pracy, jeden interfejs.
 
